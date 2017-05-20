@@ -3,5 +3,5 @@
 1.friendsex  性别比例  
 2.friendcity 城市及次数  
 3.frienwordcloud 个性签名词云  
-4.wxfriendmap 城市在地图分布 
+4.wxfriendmap 城市在地图分布   
 5.baidumap api baidu地图接口  
