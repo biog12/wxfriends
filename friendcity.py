@@ -19,7 +19,7 @@ d=[]
 for item in b:
      d.append(a.count(item))
 #柱状图
-plt.bar(range(len(d)),d,tick_label=c,width=0.5,align="center")
+plt.bar(range(len(d)),d,tick_label=b,width=0.5,align="center")
 plt.xticks(rotation=90)
 plt.title("好友地理位置统计")
 plt.savefig('dili',dpi=800)
